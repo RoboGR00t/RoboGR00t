@@ -59,6 +59,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RoboGR00t/RoboGR00t/output/snake.svg" alt="Snake animation" />
-
 ###
